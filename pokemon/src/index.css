@@ -1,0 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Sigmar+One);
+@import url('https://fonts.googleapis.com/css?family=Amarante');
+
+body {
+  margin: 0;
+  font-family: 'Amarante', BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
